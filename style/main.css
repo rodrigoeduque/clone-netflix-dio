@@ -28,7 +28,7 @@ header .container {
 
 header .logo {
     color: var(--vermelho);
-    font-family: 'Arial Black';
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40px;
     margin-left: 5px;
 }
